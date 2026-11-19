@@ -1,0 +1,6 @@
+{
+  "name": "GHIFARI CBT",
+  "description": "Sistem Ujian Digital (Computer Based Test) Internal SMK Al-Ghifari. Smarter Examination. Better Education. Developed by MARGUMI STUDIO.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
